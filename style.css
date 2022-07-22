@@ -2,3 +2,14 @@ h1{
     color: brown;
     text-align: center;
 }
+.pp{
+    background-color: coral;
+    text-align: center;
+    padding: 20px;
+}
+.dd{
+    border: 5px;
+    border-color: solid salmon;
+    height: 300px;
+    width: 400px;
+}
